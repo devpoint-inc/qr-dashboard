@@ -1,2 +1,1 @@
-# No external dependencies needed for this demo version 
-Flask==3.0.3 
+# No dependencies required for basic Python serverless function 
