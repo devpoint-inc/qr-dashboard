@@ -102,7 +102,7 @@ class handler(BaseHTTPRequestHandler):
 <body>
     <a href="/admin" class="admin-link">📊 관리자</a>
     <div class="container">
-        <h1>🍢 스마트 젓가락</h1>
+        <h1>🍢 스마트 대시보드</h1>
         <p>QR 코드를 스캔하여 안전성을 확인하세요</p>
         
         <div class="input-group">
